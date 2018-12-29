@@ -1,0 +1,21 @@
+{
+  "name": "privacyModeV1",
+  "supportEmail": "",
+  "version": "0.0.1",
+  "items": [{
+    
+    "url": "privacyModeV1.html",
+    "path": "",
+    "menuName": {
+      "en": "privacyModeV1"
+    },
+    
+    "icon": "images/icon.svg"
+  }],
+  "dev": {
+    "root": "privacyModeV1",
+    "dist": {
+      "host": "https://www.example.com/myaddin/"
+    }
+  }
+}
